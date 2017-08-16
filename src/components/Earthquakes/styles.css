@@ -1,0 +1,33 @@
+.card {
+  height: 200px;
+  border-radius: 0;
+  background-color: #FFF;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card-title {
+  font-size: 20px;
+  color: #000;
+  height: 45px;
+}
+
+.card-subtitle {
+  font-size: 13px;
+}
+
+.card-text {
+  font-size: 13px;
+}
+
+.card-link {
+  min-width: 100%;
+  background-color: #000;
+  border: none;
+}
+
+
+.card-link a {
+  color: #FFF;
+  font-size: 13px;
+}

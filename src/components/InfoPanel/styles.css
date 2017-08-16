@@ -1,0 +1,18 @@
+.earthquake-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 23px;
+  text-align: center;
+  height: 100px;
+}
+
+.earthquake-title p {
+  width: 600px;
+  padding-top: 30px;
+}
+
+.date {
+  font-size: 12px;
+}

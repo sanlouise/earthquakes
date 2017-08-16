@@ -8,7 +8,6 @@ class Earthquakes extends Component {
     this.state = {
       earthquakes: {},
     };
-    this.fetchEarthquakes = this.fetchEarthquakes.bind(this);
   }
 
   //Needed to fetch data before app renders
